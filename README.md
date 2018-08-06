@@ -1,8 +1,8 @@
 ## Welcome to Qin Zhenni's Pages
 
-You can use the [editor on GitHub](https://github.com/complejarene/complejarene/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+个人简介：覃珍妮，女，1994年生，今年24岁。是一个热爱生活、热爱互联网，用于尝试新鲜事物的女孩。迎面各种挑战也无所畏惧，独立自主，有自己的想法，正确自己想要的生活
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本科毕业于浙江越秀外国语学院，西方语言学院，西班牙语专业。研究生毕业于马德里康普顿斯大学，新闻系，新闻研究、沟通与交流专业。
 
 ### Markdown
 
